@@ -1,0 +1,41 @@
+.boxd{
+    background-color: rgb(255, 255, 255,0.3);;
+    width: 600px;
+    height: 400px;
+    margin-top: 50px;
+    padding-top: 1px;
+    margin-left: 320px;
+}
+.delh1{
+    padding-top: 20px;
+    margin-left: 400px;
+    margin-top: 0px;
+    font-size: 38px;
+}
+.lab{
+
+    font-size:"20px";
+}
+.qw1{
+    color:"aliceblue";
+    background-color:"black";
+     height :"50px";
+     width:"200px";
+     margin-top:"15px";
+     border-radius:"5px";
+    }
+.qw{
+    margin-top:"20px";
+     background-image:url("https://tse3.mm.bing.net/th?id=OIP.kM-vwmiyPtCgXQUtoOMA1wHaEK&pid=Api&P=0");
+     background-size: cover;
+     height: 610px;
+     background-repeat: no-repeat;
+     margin-top: -10px;
+}
+.delsubmit{
+    height :"30px";width:"120px";
+     border-radius:"5px";
+     color:"white";
+     background-color:"black";
+     margin-bottom:"10px";
+}
